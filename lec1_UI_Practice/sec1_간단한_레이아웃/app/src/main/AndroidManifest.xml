@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -13,9 +15,9 @@
         android:theme="@style/Theme.Adefault"
         tools:targetApi="31">
         <activity
-            android:name=".lec6_TextFiled_OutlinedTextField"
+            android:name=".lec7_Image"
             android:exported="true"
-            android:label="@string/title_activity_lec6_text_filed_outlined_text_field"
+            android:label="@string/title_activity_lec7_image"
             android:theme="@style/Theme.Adefault">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -24,11 +26,15 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".lec6_TextFiled_OutlinedTextField"
+            android:exported="true"
+            android:label="@string/title_activity_lec6_text_filed_outlined_text_field"
+            android:theme="@style/Theme.Adefault" />
+        <activity
             android:name=".lec5_Column_Spacer_Divider"
             android:exported="true"
             android:label="@string/title_activity_lec5_column_spacer_divider"
             android:theme="@style/Theme.Adefault" />
-
         <activity
             android:name=".lec4_Remember"
             android:exported="true"
