@@ -3,4 +3,7 @@
     <string name="title_activity_lec3_button_toast">lec3_Button_Toast</string>
     <string name="title_activity_lec4_Remember">lec4_Remember</string>
     <string name="title_activity_lec5_column_spacer_divider">lec5_Column_Spacer_Divider</string>
+    <string name="title_activity_lec6_text_filed_outlined_text_field">
+        lec6_TextFiled_OutlinedTextField
+    </string>
 </resources>
