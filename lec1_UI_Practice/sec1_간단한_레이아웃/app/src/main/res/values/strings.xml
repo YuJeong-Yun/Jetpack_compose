@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">adefault</string>
+    <string name="title_activity_lec3_button_toast">lec3_Button_Toast</string>
 </resources>

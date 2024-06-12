@@ -13,9 +13,9 @@
         android:theme="@style/Theme.Adefault"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".lec3_Button_Toast"
             android:exported="true"
-            android:label="@string/app_name"
+            android:label="@string/title_activity_lec3_button_toast"
             android:theme="@style/Theme.Adefault">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,6 +23,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Adefault" />
     </application>
 
 </manifest>
