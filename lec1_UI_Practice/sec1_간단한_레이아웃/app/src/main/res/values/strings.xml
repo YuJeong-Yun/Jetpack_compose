@@ -10,4 +10,5 @@
     <string name="title_activity_lec8_box">lec8_Box</string>
     <string name="title_activity_lec9_row">lec9_Row</string>
     <string name="title_activity_lec10_column_row">lec10_Column_Row</string>
+    <string name="title_activity_lec11_card">lec11_Card</string>
 </resources>
