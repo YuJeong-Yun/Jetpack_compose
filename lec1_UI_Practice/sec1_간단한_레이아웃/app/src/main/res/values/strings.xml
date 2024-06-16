@@ -9,4 +9,5 @@
     <string name="title_activity_lec7_image">lec7_Image</string>
     <string name="title_activity_lec8_box">lec8_Box</string>
     <string name="title_activity_lec9_row">lec9_Row</string>
+    <string name="title_activity_lec10_column_row">lec10_Column_Row</string>
 </resources>

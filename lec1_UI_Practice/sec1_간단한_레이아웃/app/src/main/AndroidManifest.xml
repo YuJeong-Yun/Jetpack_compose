@@ -15,9 +15,9 @@
         android:theme="@style/Theme.Adefault"
         tools:targetApi="31">
         <activity
-            android:name=".lec9_Row"
+            android:name=".lec10_Column_Row"
             android:exported="true"
-            android:label="@string/title_activity_lec9_row"
+            android:label="@string/title_activity_lec10_column_row"
             android:theme="@style/Theme.Adefault">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,6 +25,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".lec9_Row"
+            android:exported="true"
+            android:label="@string/title_activity_lec9_row"
+            android:theme="@style/Theme.Adefault"></activity>
         <activity
             android:name=".lec8_Box"
             android:exported="true"
