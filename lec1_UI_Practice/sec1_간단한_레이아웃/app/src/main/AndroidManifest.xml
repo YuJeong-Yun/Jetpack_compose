@@ -15,9 +15,9 @@
         android:theme="@style/Theme.Adefault"
         tools:targetApi="31">
         <activity
-            android:name=".lec11_Card"
+            android:name=".lec12_WebView"
             android:exported="true"
-            android:label="@string/title_activity_lec11_card"
+            android:label="@string/title_activity_lec12_web_view"
             android:theme="@style/Theme.Adefault">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,6 +25,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".lec11_Card"
+            android:exported="true"
+            android:label="@string/title_activity_lec11_card"
+            android:theme="@style/Theme.Adefault" />
         <activity
             android:name=".lec10_Column_Row"
             android:exported="true"
