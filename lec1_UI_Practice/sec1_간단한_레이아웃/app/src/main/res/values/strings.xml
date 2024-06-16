@@ -13,4 +13,5 @@
     <string name="title_activity_lec11_card">lec11_Card</string>
     <string name="title_activity_lec12_web_view">lec12_WebView</string>
     <string name="title_activity_lec13_surface">lec13_Surface</string>
+    <string name="title_activity_lec14_scaffold">lec14_scaffold</string>
 </resources>
