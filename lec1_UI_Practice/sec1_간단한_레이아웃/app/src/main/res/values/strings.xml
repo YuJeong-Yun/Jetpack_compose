@@ -16,4 +16,5 @@
     <string name="title_activity_lec14_scaffold">lec14_scaffold</string>
     <string name="title_activity_lec15_lazy_column">lec15_LazyColumn</string>
     <string name="title_activity_lec16_lazy_row">lec16_LazyRow</string>
+    <string name="title_activity_lec17_progress_indicator">lec17_ProgressIndicator</string>
 </resources>
