@@ -15,9 +15,9 @@
         android:theme="@style/Theme.Adefault"
         tools:targetApi="31">
         <activity
-            android:name=".lec20_Navigation1"
+            android:name=".lec21_Navigation2"
             android:exported="true"
-            android:label="@string/title_activity_lec20_navigation1"
+            android:label="@string/title_activity_lec21_navigation2"
             android:theme="@style/Theme.Adefault">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,6 +25,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".lec20_Navigation1"
+            android:exported="true"
+            android:label="@string/title_activity_lec20_navigation1"
+            android:theme="@style/Theme.Adefault" />
         <activity
             android:name=".lec19_Show_Hide"
             android:exported="true"
