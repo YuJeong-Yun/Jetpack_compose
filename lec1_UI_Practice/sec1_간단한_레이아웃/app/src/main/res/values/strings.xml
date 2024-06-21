@@ -18,4 +18,5 @@
     <string name="title_activity_lec16_lazy_row">lec16_LazyRow</string>
     <string name="title_activity_lec17_progress_indicator">lec17_ProgressIndicator</string>
     <string name="title_activity_lec18_code_editing">lec18_CodeEditing</string>
+    <string name="title_activity_lec19_show_hide">lec19_Show_Hide</string>
 </resources>
