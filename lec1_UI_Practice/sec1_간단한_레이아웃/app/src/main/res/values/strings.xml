@@ -24,4 +24,5 @@
     <string name="title_activity_lec22_retrofit1">lec22_Retrofit1</string>
     <string name="title_activity_le23_retrofit2">le23_Retrofit2</string>
     <string name="title_activity_lec24_drawer">lec24_Drawer</string>
+    <string name="title_activity_lec25_dialog">lec25_Dialog</string>
 </resources>
